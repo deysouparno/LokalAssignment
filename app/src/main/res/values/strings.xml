@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LokalAssignment</string>
+    <string name="api_key">live_rIAeVnuBiUkJIKXAqpwk6iRYok39WZm08kUMgvzfMJVrlDUFyyfl4xhGITKBC94j</string>
+    <string name="retry">Retry</string>
+</resources>
